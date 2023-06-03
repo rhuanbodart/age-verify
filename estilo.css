@@ -1,0 +1,33 @@
+body { 
+    background-color: rgb(54, 54, 196);
+    background-image: url(../age-verify/preview.jpg);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0 0 0 0.363);
+
+}
+
+img {
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
